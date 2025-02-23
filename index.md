@@ -13,4 +13,4 @@ permalink: /
 &account=<user id>
 &appShareURL=https://dintort.github.io;)
 
-Install Readinza on air](itms-services://?action=download-manifest&url=https://www.installonair.com/storage/ipaz/umaDXy/umaDXy.plist)
+[Install Readinza on air](itms-services://?action=download-manifest&url=https://www.installonair.com/storage/ipaz/umaDXy/umaDXy.plist)
